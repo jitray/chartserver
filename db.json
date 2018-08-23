@@ -1,39 +1,38 @@
 {
-   "private": false,
-  "type": null,
-  "premium": false,
-    "data": [
-        [
-          "Messi",
-          24
-        ],
-        [
-          "Ronaldo",
-          23
-        ],
-        [
-          "Maradona",
-          22
-        ],
-        [
-          "Gulit",
-          21
-        ],
-        [
-          "Rooni",
-          20
-        ],
-        [
-          "Buruchaga",
-          19
-        ],
-        [
-          "Zico",
-          18
-        ],
-        [
-          "Klinsman",
-          14
-        ]
-    ]
+	"private": false,
+	"type": null,
+	"premium": false,
+	"data": [
+		["Messi",
+			24
+		],
+		[
+			"Ronaldo",
+			23
+		],
+		[
+			"Maradona",
+			22
+		],
+		[
+			"Gulit",
+			21
+		],
+		[
+			"Rooni",
+			20
+		],
+		[
+			"Buruchaga",
+			19
+		],
+		[
+			"Zico",
+			18
+		],
+		[
+			"Klinsman",
+			14
+		]
+	]
 }
